@@ -8,6 +8,7 @@
     "start": "babel . --watch --out-dir compiled --presets=react --ignore=node_modules,compiled --source-maps inline | live-server"
   },
   "author": "",
+
   "license": "ISC",
   "dependencies": {
     "@babel/cli": "^7.4.4",
